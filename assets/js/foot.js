@@ -10,14 +10,14 @@ document.writeln("<a href=\'https://lerso.cn/sitemap.html\' target=\'_blank\' cl
 document.writeln("&nbsp;	");
 document.writeln("<a href=\'/dh/yq/' target=\'_blank\' class=\'mail\'><i class=\'fa fa-user fa-fw\' style=\'color: #666\'></i> 友链<a>");
 document.writeln("&nbsp;	");
+document.writeln("<a href=\'/https://nav.yhz610.com\' target=\'_blank\' class=\'mail\'><i class=\'fa fa-user fa-fw\' style=\'color: #FF0505\'></i> 极简导航 <a>");
+document.writeln("&nbsp;	");
+document.writeln("&nbsp;	");
 document.writeln("<!-- <i class=\'fa fa-spinner fa-spin margin-bottom\'></i>&nbsp;<span id=\'runtime_span\'></span> -->");
 document.writeln("<!-- <script type=\'text/javascript\'>function show_runtime(){window.setTimeout(\'show_runtime()\',1000);X=new  -->");
 document.writeln("<!-- <br> -->");
-document.writeln("<!-- <a href=\'https://mp.weixin.qq.com/s/qzAvJdmDkJx-P-M6H8CPFw\' target=\'_blank\'><!-- <i class=\'fa fa-star\' style=\'color: #d82821\'></i>关于本站</a> -->");
 document.writeln("<!-- &nbsp; -->");
-document.writeln("<!-- <a href=\'javascript:;\' id=\'zhanzhu\'><!-- <i class=\'fa fa-fw fa-heart\' style=\'color: #DF7A5C\'></i>小额赞助</a> -->");
 document.writeln("<!-- &nbsp; -->");
-document.writeln("<!-- <a href=\'javascript:;\' id=\'weixin\'><!-- <i class=\'fa fa-fw fa-weixin\' style=\'color: #04AE34\'></i>微信公众号</a> 						 -->");
 document.writeln("<!-- &nbsp;				 -->");
 document.writeln("<!-- ngji.baidu.com/web/welcome/login\' target=\'_blank\' class=\'mail\'><i class=\'fa-area-chart fa-fw\' style=\'color: #00ffd2\'></i>百度统计</a> -->");
 document.writeln("<!-- &nbsp;					 -->");
